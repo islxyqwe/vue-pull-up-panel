@@ -2,7 +2,7 @@
   "name": "vue-pull-up-panel",
   "version": "1.0.0",
   "description": "A vue component to imitate the drawer in iOS 10 Map app.",
-  "main": "dist/index.js",
+  "main": "dist/vue_pull_up_panel.js",
   "repository": "https://github.com/islxyqwe/vue-pull-up-panel",
   "author": "islxyqwe",
   "license": "MIT",
